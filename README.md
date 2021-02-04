@@ -12,4 +12,4 @@ piéton, masque , pas-de-masque, mal_mis, velo, trottinette
 ##### (2) lancer l'entrainement 
 ##### (3) recupere les prediction dans 3 fichiers .csv le premier nombre de (pieton,masque,mal_mis) le deusxieme (trottinette,velo) le trosieme (pieton,velo)
 ## les prediction sur une images 
-#
+![143923142_423536878890375_1162483937575691006_n](https://user-images.githubusercontent.com/74276606/106903837-ccdfac80-66fa-11eb-834e-c5df5b95be52.gif)
