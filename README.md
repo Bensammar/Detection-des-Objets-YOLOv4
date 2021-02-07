@@ -13,3 +13,6 @@ piéton, masque , pas-de-masque, mal_mis, velo, trottinette
 ##### (3) recupere les prediction dans 3 fichiers .csv le premier nombre de (pieton,masque,mal_mis) le deusxieme (trottinette,velo) le trosieme (pieton,velo)
 ## les prediction sur une images 
 ![143923142_423536878890375_1162483937575691006_n](https://user-images.githubusercontent.com/74276606/106903837-ccdfac80-66fa-11eb-834e-c5df5b95be52.gif)
+#
+## pour tester sur une video
+!./darknet detector demo /content/drive/MyDrive/YOLOV4-multi-data/data_names/project.data /content/drive/MyDrive/YOLOV4-multi-data/cfg/yolov4.cfg /content/drive/MyDrive/YOLOV4-multi-data/weights/yolov4_last.weights -dont_show /content/drive/MyDrive/YOLOV4-multi-data/my_test_video/5_clip.mp4 -i 0 -out_filename /content/drive/MyDrive/YOLOV4-multi-data/my_test_video/results.avi
